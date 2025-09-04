@@ -2,7 +2,7 @@
 
 类 Apple Music 的第三方 Spotify 播放器 ( 当前仅支持 Android )。
 
-[点击下载安装包](https://github.com/niki914/Myspotify/releases/download/1.0.0-alpha1/app-release.apk)
+[点击下载安装包](https://github.com/niki914/Myspotify/releases/)
 
 # ⚠️使用限制
 
