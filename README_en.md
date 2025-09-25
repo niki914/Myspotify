@@ -23,6 +23,8 @@ This app is **limited to accounts that have been added by the developer (a Premi
 
 If you have any suggestions or find any bugs, please feel free to submit an issue or contact me through other channels\!
 
+![dashboard](https://github.com/niki914/Myspotify/blob/main/images/dashboard.png)
+
 # Regarding Open Source
 
 It is not open source at the moment but will be considered for the future.

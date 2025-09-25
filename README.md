@@ -31,7 +31,7 @@
 
 如果有任何建议或者 Bug，欢迎提 Issue 或者通过其他方式联系我~
 
-![dashboard](https://github.com/niki914/Myspotify/blob/main/images/dashborad.png)
+![dashboard](https://github.com/niki914/Myspotify/blob/main/images/dashboard.png)
 
 # 关于开源
 
