@@ -1,3 +1,11 @@
+
+
+
+
+### [English Doc](https://github.com/niki914/Myspotify/blob/main/README_en.md)
+
+
+
 # Myspotify
 
 类 Apple Music 的第三方 Spotify 播放器 ( 当前仅支持 Android )。
@@ -11,10 +19,10 @@
 介绍视频见 [bilibili](https://www.bilibili.com/video/BV1kspFz1Eom/?share_source=copy_web&vd_source=e928ac8df37862d7e05a1286cc6b1329)
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/niki914/Myspotify/blob/main/img/pv1.png?raw=true" alt="pv1" width="200"/>
-  <img src="https://github.com/niki914/Myspotify/blob/main/img/pv2.png?raw=true" alt="pv2" width="200"/>
-  <img src="https://github.com/niki914/Myspotify/blob/main/img/pv3.png?raw=true" alt="pv3" width="200"/>
-  <img src="https://github.com/niki914/Myspotify/blob/main/img/pv4.png?raw=true" alt="pv4" width="200"/>
+  <img src="https://github.com/niki914/Myspotify/blob/main/images/pv1.png?raw=true" alt="pv1" width="200"/>
+  <img src="https://github.com/niki914/Myspotify/blob/main/images/pv2.png?raw=true" alt="pv2" width="200"/>
+  <img src="https://github.com/niki914/Myspotify/blob/main/images/pv3.png?raw=true" alt="pv3" width="200"/>
+  <img src="https://github.com/niki914/Myspotify/blob/main/images/pv4.png?raw=true" alt="pv4" width="200"/>
 </div>
 
 # ⚠️使用限制
